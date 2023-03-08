@@ -8,7 +8,7 @@ MenuBtn.addEventListener('click',function(e){
 
 // typing effect
 let typed = new Typed('.auto-input',{
-    strings:['Gard Dog','Sleeper','Dancer','Make you smile'],
+    strings:['Guard Dog','Sleeper','Dancer','Make you smile'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay:2000,
